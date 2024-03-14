@@ -1,7 +1,7 @@
-# Fluzy Windows
+
+# Fluzy Windows ( Updating )
 
 Roblox free Exploit with bypass byforn and easy use ( Beta ) 📦
-
 
 ## How to use ?
 
@@ -27,3 +27,5 @@ get `fluzy_Bypass.dll` from offical file
 ## Contract developer
 
 - [Discord](https://discord.gg/gjEWm4UEM5)
+
+
