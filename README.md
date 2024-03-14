@@ -1,15 +1,15 @@
+# Fluzy Windows
 
-# Fluzy Windows ( Updating )
+Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in Beta ) 📦
 
-Roblox free Exploit with bypass byforn and easy use ( Beta ) 📦
 
 ## How to use ?
 
 #### First Setup
 
-#### you need to Install `Fluzy X Excutor ( Alpha ).exe`
+#### You need to Download and Install `Fluzy X Excutor ( Alpha ).exe`
 
-[Click to Install](https://cdn.discordapp.com/attachments/wait/waittofix/fluzy.rar)
+[Click to Download](https://cdn.discordapp.com/attachments/wait/waittofix/fluzy.rar)
 
 #### Final Setup
 
@@ -21,11 +21,9 @@ get `fluzy_Bypass.dll` from offical file
 
 - Inject all roblox script
 - Auto save ( Inject auto )
-- Bypass byforn
+- Bypass byfron
 - Update every roblox Update fast
 
 ## Contract developer
 
 - [Discord](https://discord.gg/gjEWm4UEM5)
-
-
