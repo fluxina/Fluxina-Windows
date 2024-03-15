@@ -5,7 +5,7 @@ Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in B
 
 ## How to use ❓
 
-#### Download and Install `Fluzy X Windows ( setup )`
+#### First step just Download and Install `Fluzy X Windows ( setup )`
 
 [Wait to Update](https://discord.gg/gjEWm4UEM5)
 
