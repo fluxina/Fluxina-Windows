@@ -1,24 +1,26 @@
 # Fluzy Windows ( 🟢 )
 
-Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in Beta ) 📦
+Fluzy is a Free Roblox Exploit that bypasses byfron and is very easy to use. ( Still in Beta ) 📦
 
 ## How to use ❓
 
-You need to download this file
+You need to Download this specific file to run the executor.
 
 ```bash
   Fluzy X Windows ( Setup )
 ```
 
-[Wait to Update](https://discord.gg/gjEWm4UEM5)
+[Waiting to Update](https://discord.gg/gjEWm4UEM5)
 
 ## ⭐️ Features
 
-- Inject all roblox script
-- Auto save ( Inject auto )
-- Bypass byfron
-- Update every roblox Update fast
+- Can Inject all scripts.
+- Auto save ( Automatic Injection )
+- Bypass Byfron
+- Quick Update
 
-## Contract developer
+## 📸 Screenshots
+
+## Contacting The Developer
 
 - [Discord](https://discord.gg/gjEWm4UEM5)
