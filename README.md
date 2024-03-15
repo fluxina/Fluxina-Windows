@@ -1,15 +1,15 @@
-# Fluzy Windows
+# Fluzy Windows ( 🟢 )
 
 Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in Beta ) 📦
 
 
-## How to use ?
+## How to use ❓
 
-#### You need to Download and Install `Fluzy X Excutor ( Alpha ).exe`
+#### You need to Download and Install `Fluzy X Windows ( setup )`
 
 [Wait to Update](https://discord.gg/gjEWm4UEM5)
 
-## Features
+## ⭐️ Features
 
 - Inject all roblox script
 - Auto save ( Inject auto )
