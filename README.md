@@ -1,24 +1,24 @@
-# Fluzy Windows ( 🟢 )
+# Fixania Windows ( 🟢 )
 
-Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in Beta ) 📦
+Fixania is a Free Roblox Exploit that bypasses byfron and easy to use (Still in Development) 📦
 
 ## How to use ❓
 
-You need to download this file
+You need to download the launcher for the exploit.
 
 ```bash
-  Fluzy X Windows ( Setup )
+  Fixania Exploit ( Setup )
 ```
 
-[Wait to Update](https://discord.gg/gjEWm4UEM5)
+[Waiting for an update](https://discord.gg/gjEWm4UEM5)
 
 ## ⭐️ Features
 
-- Inject all roblox script
-- Auto save ( Inject auto )
-- Bypass byfron
-- Update every roblox Update fast
+- Can Inject every scripts possible.
+- Auto save (Automatically Injected)
+- Bypassing Byfron (Roblox Current Anticheat)
+- Works with UWP Version of Roblox, (you don't need emulator to use the exploit)
 
-## Contract developer
+## Contacting Developer
 
-- [Discord](https://discord.gg/gjEWm4UEM5)
+- [Discord Server](https://discord.gg/gjEWm4UEM5)
