@@ -1,4 +1,4 @@
-# Fluzy Windows ( 🟢 )
+# Fluxina Windows ( 🟢 )
 
 Fluzy is a Free Roblox Exploit that bypasses byfron and easy to use ( Still in Beta ) 📦
 
